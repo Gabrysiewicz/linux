@@ -3,7 +3,7 @@
 Alias
 ```
 alias sysupd="sudo apt-get update -y; sudo apt-get upgrade -y"
-BROWSER="/mnt/c/Program Files/BraveSoftware/Brave-Browser/Application/brave.eze"
+BROWSER="/mnt/c/Program\ Files/BraveSoftware/Brave-Browser/Application/brave.exe"
 alias see="$BROWSER"
 
 ```
